@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"FoodQuickGUI"},{"p":"<Unnamed>","l":"GuiButtons"},{"p":"<Unnamed>","l":"InvoiceWriter"},{"p":"<Unnamed>","l":"QuickFoodMS2"}];updateSearchResults();
