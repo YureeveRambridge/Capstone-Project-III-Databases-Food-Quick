@@ -34,18 +34,18 @@ has a load of 4 deliveries.
 Food Quick asked me to create an invoice for a customer after the
 above information has been inputted into the program. The invoice is a an auto genreated document with the following format:
 
-Order number 1234
-Customer: Jill Jack
-Email: jilljack@yahoo.com
-Phone number: 123 456 7890
-Location: Cape Town
-You have ordered the following from Aesop’s Pizza in Cape Town:
-1 x Pepperoni pizza (R78.00)
-2 x Hawaiian pizza (R82.00)
-Special instructions: Extra tomato base on the Pepperoni pizza
-Total: R242.00
-John Krill is nearest to the restaurant and so he will be delivering your
-order to you at:
-12 Cherry Road
-Plumstead
-If you need to contact the restaurant, their number is 098 765 4321.
+- Order number 1234
+- Customer: Jill Jack
+- Email: jilljack@yahoo.com
+- Phone number: 123 456 7890
+- Location: Cape Town
+- You have ordered the following from Aesop’s Pizza in Cape Town:
+- 1 x Pepperoni pizza (R78.00)
+- 2 x Hawaiian pizza (R82.00)
+- Special instructions: Extra tomato base on the Pepperoni pizza
+- Total: R242.00
+- John Krill is nearest to the restaurant and so he will be delivering your
+- order to you at:
+- 12 Cherry Road
+- Plumstead
+- If you need to contact the restaurant, their number is 098 765 4321.
