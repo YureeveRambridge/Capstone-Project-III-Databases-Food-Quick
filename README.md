@@ -1,6 +1,6 @@
 # Capstone-Project-III-Databases-Food-Quick
 
-Porject Spec:
+Project Spec:
 
 I was asked to create a food delivery system for a company called “Food Quick”.
 Food Quick is the company that receives the orders and distributes them to a
